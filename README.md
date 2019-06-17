@@ -1,1 +1,1 @@
-It is Dice Game Created with HTML-CSS-Javascript Codes
+It is Dice Game and created with HTML-CSS-Javascript by RS
